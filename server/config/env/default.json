@@ -1,0 +1,6 @@
+{
+	"LOG_LEVEL":"info",
+	"HOST": "localhost",
+	"SIO_NS": "convospot-widget-v2",
+	"PORT": 8004
+}

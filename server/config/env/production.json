@@ -1,0 +1,6 @@
+{
+	"LOG_LEVEL":"debug",
+	"AMQP_CONN": "amqp://guest:guest@localhost:5672/seneca",
+	"GRPC_CONN": "localhost:8980",
+	"PORT": 8004
+}
