@@ -1,16 +1,16 @@
 {
-  "name": "convospot-socket",
+  "name": "bobcat",
   "title": "convospot realtime server",
   "description": "the socket.io server for convospot",
   "version": "2.0.12",
   "author": {
     "name": "Homer Quan",
-    "email": "homer@convospot.io",
-    "url": "https://www.convospot.io"
+    "email": "dev@reflen.com",
+    "url": "https://www.reflen.com"
   },
   "engines": {
-    "node": ">=6.5",
-    "npm": ">=3.10"
+    "node": ">=8.10",
+    "npm": ">=6.4"
   },
   "main": "./server/index.js",
   "scripts": {
